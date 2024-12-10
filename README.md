@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💕 AI-HealthCare-Assistant
 <div id="top" align="center">
   <img src="https://user-images.githubusercontent.com/78981558/155504905-3bd2d8db-64f5-413c-b7d2-d4e7842ddad8.png" width="250" height="250"/>
@@ -272,3 +273,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 Developed with 💕 by **AlphaCoders**.
+=======
+# Dr-Nexus
+Ai Powered doctor chatbot
+>>>>>>> 92d8546ec9d5a9b2e5d0c17c4125e01fcfd23e8f
