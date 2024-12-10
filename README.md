@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # 💕 AI-HealthCare-Assistant
 
@@ -62,13 +63,24 @@ This is the official AI-HealthCare-Assistant documentation <br/>
 
   </ol>
 </details>
+=======
+# 💕 AI-HealthCare-Assistant: Dr-Nexus
+<div id="top" align="center">
+  <img src="https://user-images.githubusercontent.com/78981558/155504905-3bd2d8db-64f5-413c-b7d2-d4e7842ddad8.png" width="250" height="250"/>  
+>>>>>>> 0024a1dcf9151976a1ca0a4f19157c8c7e71d1ee
 
 <!-- ABOUT THE PROJECT -->
 
 ## 📃 About The Project
+<<<<<<< HEAD
 
 <b>"NearestDoctor"</b> is an AI healthcare assistant that uses AI and machine learning algorithms to improve patients' experience by providing them professional medical assistance. Patients will be able to find the nearest doctor to their location, ask about illness symptoms, and schedule an appointment with a doctor based on their availability. Immediate responses will be provided by a chatbot to redeem the needs of our patients using Artificial Intelligence techniques for decision making. Also, our solution offers a very unique concept with developing patient records using Blockchain. The assistant will create a medical record and store it in Blockchain to make them accessible to any of the patient's chosen doctors with granted permission. Thanks to the decentralized nature of Blockchain, patient records would be securely spread among a large number of servers, posing little risk to their sensitive information.<br>
 This web application centralizes the schedules and medical services in a single dashboard. This solution offers a real-time overview of the coverage of reports that facilitate the management of resources.<br>
+=======
+<b>" Dr. Nexus"</b> an AI-powered virtual healthcare assistant designed to connect patients and medical professionals seamlessly. By leveraging Artificial Intelligence, Machine Learning, and Natural Language Processing, it offers personalized health solutions, symptom analysis, and basic diagnostics through an intuitive interface.
+This dynamic system evolves with every interaction, providing instant, reliable health assessments anytime, anywhere. Dr. Nexus empowers users with proactive healthcare tools, reducing the burden on professionals while enabling early diagnosis and timely interventions.
+<br>
+>>>>>>> 0024a1dcf9151976a1ca0a4f19157c8c7e71d1ee
 
 ### 📜 Project Main features
 
@@ -77,8 +89,7 @@ This web application centralizes the schedules and medical services in a single 
 3. **📘 Medical Records:** securely stored in the blockchain using smart contracts.
 4. **💬 Blogs and Forum:** using machine learning for patient satisfaction prediction.
 5. **📈 Real-time reports:** using machine learning to offer an overview of many aspects of the application.
-6. **🙋 Advanced authentication:** using facial recognition to match the identity of a doctor, Card ID data extraction, and machine learning for identity verification.
-7. **🛒 Paramedical e-shop:** using machine learning for patient's behavioral analysis prediction.
+6. **🛒 Paramedical e-shop:** using machine learning for patient's behavioral analysis prediction.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### 📐 Project Technical Architecture
@@ -93,7 +104,7 @@ This web application centralizes the schedules and medical services in a single 
 
 ### 🚀 Built With
 
-**NearestDoctor** is built using MERN Stack technology. You may find below the list of the frameworks/libraries that we used to build our project :
+**Dr-Nexus** is built using MERN Stack technology. You may find below the list of the frameworks/libraries that we used to build our project :
 <br/>
 
   <div align="center">
@@ -142,7 +153,7 @@ _In order to install the app you need to follow the instructions below :_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahlem-phantom/AI-HealthCare-Assistant.git
+   git clone https://github.com/kunnub/Dr-Nexus.git
    ```
 2. Install NPM packages dependencies
 
@@ -164,6 +175,7 @@ _In order to install the app you need to follow the instructions below :_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<<<<<<< HEAD
 <!-- USAGE EXAMPLES -->
 
 ## ⚡ Usage
@@ -227,6 +239,13 @@ See the [open issues](https://github.com/ahlem-phantom/AI-HealthCare-Assistant/i
 So far, **NearestDoctor** has been selected among dozens of projects to participate in the 9th edition ceremony of best projects of the year 2022 in **Esprit school of engineering**.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+=======
+
+
+
+
+
+>>>>>>> 0024a1dcf9151976a1ca0a4f19157c8c7e71d1ee
 
 <!-- CONTRIBUTING -->
 
@@ -244,6 +263,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
+<<<<<<< HEAD
 
 ## 💌 Contact
 
@@ -267,8 +287,29 @@ Don't forget to give the project a star! Thanks again!
 - [Font Awesome](https://fontawesome.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+=======
+## 💌 Contact
+
+<b>Project Members:</b>
+
+| <img src="https://user-images.githubusercontent.com/78981558/157719496-9aec4730-512f-4188-87ca-8dbe6271ebfc.jpg" width="150" height="150"/> <br> **Kunal Verma** | <img src="https://user-images.githubusercontent.com/78981558/157719539-f2829a38-c204-40fc-881d-21b9f407aa84.jpg" width="150" height="150"/> <br> **Kunal Bobde** |
+|:-----------------------------------------------:|:------------------------------------------------:|
+| <a href="mailto:kunalverma"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> <a href="https://github.com/kunalverma45"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> | <a href="mailto:kunal bobde"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> <a href="https://github.com/kunnub"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGMENTS --
+>>>>>>> 0024a1dcf9151976a1ca0a4f19157c8c7e71d1ee
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+<<<<<<< HEAD
 Developed with 💕 by **AlphaCoders**
+=======
+Developed with 💕 by **Team-Nexus**.
+=======
+
+>>>>>>> 0024a1dcf9151976a1ca0a4f19157c8c7e71d1ee
