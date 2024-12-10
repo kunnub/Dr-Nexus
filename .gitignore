@@ -1,0 +1,71 @@
+# Ignore sensitive files in Appointment_chatbot
+server/app/Appointment_chatbot/*.json
+
+# Specifically ignore the service account key
+server/app/Appointment_chatbot/pi-twin-chatbot-xiyt-ed65fedbf656.json
+
+# General sensitive files
+service-account-key.json
+
+# Ignore IDE and editor settings
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled Java files
+*.class
+
+# Ignore Maven/Gradle directories
+.m2/
+.gradle/
+
+# Ignore build directories
+/out/
+build/
+target/
+
+# Ignore node_modules for backend/frontend (if applicable)
+node_modules/
+
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Ignore coverage reports (if testing is enabled)
+coverage/
+*.lcov
+
+# Ignore specific frontend build files (if applicable)
+dist/
+.eslintcache
+.cache/
+
+# Ignore database files (if using SQLite or similar)
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore binary/executable files
+*.exe
+*.dll
+*.so
+*.o
+*.out
+
+# Ignore package-lock and yarn.lock if not needed
+package-lock.json
+yarn.lock
