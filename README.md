@@ -123,10 +123,41 @@ Don't forget to give the project a star! Thanks again!
 
 ## 💌 Contact
 
-<b>Project Members:</b>
+**Project Members:**
 
+<div align="center">
+
+<div style="display: inline-block; float: left; margin: 10px;">
+  <img src="./react-app/public/assets/img/kunal_verma.webp" width="150" alt="Kunal Verma"/><br>
+  Kunal Verma
+	<br>
+  <a href="mailto:kunalverma@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/kunalverma45">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
+<div style="display: inline-block; float: right; margin: 10px;">
+  <img src="./react-app/public/assets/img/Kunal_bobde.webp" width="150" alt="Kunal Bobde"/><br>
+	Kunal Bobde
+	<br>
+  <a href="mailto:kunalbobde@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/kunnub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
+</div>
+
+<<<<<<< HEAD
 <img src="./react-app/public/assets/img/kunal_verma.webp" width="150" height="150"/> <br> **Kunal Verma** <img src="./react-app/public/assets/img/Kunal_bobde.webp" width="150" height="150"/> <br> **Kunal Bobde**
 | <a href="mailto:kunalverma"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> <a href="https://github.com/kunalverma45"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> | <a href="mailto:kunal bobde"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> <a href="https://github.com/kunnub"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+=======
+>>>>>>> c1c134fe951e36347d8b7a5dc2689d83a226e97a
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
