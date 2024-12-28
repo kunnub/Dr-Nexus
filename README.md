@@ -153,7 +153,6 @@ Don't forget to give the project a star! Thanks again!
 
 </div>
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS --
@@ -161,6 +160,5 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 # Developed with 💕 by **Team-Nexus**.

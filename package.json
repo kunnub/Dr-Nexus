@@ -1,0 +1,26 @@
+{
+  "name": "doctor-nexus",
+  "version": "1.0.0",
+  "description": "<div id=\"top\" align=\"center\">\r   <img src=\"./react-app/public/assets/img/logo-main.webp\" width=\"250\" height=\"250\"/>",
+  "main": "index.js",
+
+  "homepage": "https://kunnub.github.io/Dr-Nexus", 
+
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1"
+  }
+}
